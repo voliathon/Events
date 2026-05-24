@@ -1,6 +1,6 @@
-_addon.name = 'GameEvents'
-_addon.author = 'YourName'
-_addon.version = '1.6'
+_addon.name = 'Events'
+_addon.author = 'Voliathon'
+_addon.version = '1.0.1'
 _addon.commands = {'events', 'campaign'}
 
 local texts = require('texts')
